@@ -1,3 +1,4 @@
+# Check if two strings are anagrams
 def is_anagram(str1, str2):
     str1 = str1.lower()
     str2 = str2.lower()
